@@ -1,0 +1,4 @@
+a = 30
+b = 40
+sub = b-a
+print("sub is, sub")
